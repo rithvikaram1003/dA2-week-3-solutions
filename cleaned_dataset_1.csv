@@ -1,0 +1,30 @@
+Index,Age,Salary,Rating,Location,Established,Easy Apply
+0,44,44k-99k,5.4,India,1999,True
+1,66,55k-66k,3.5,New York,2002,True
+2,39,77k-89k,0.0,New York,1984,False
+3,64,44k-99k,4.4,India,1988,False
+4,25,44k-99k,6.4,Australia,2002,False
+5,44,77k-89k,1.4,India,1999,True
+6,21,44k-99k,0.0,New York,1984,False
+7,44,44k-99k,0.0,Australia,1984,False
+8,35,44k-99k,5.4,New York,1984,False
+9,22,44k-99k,7.7,India,1984,True
+10,55,10k-49k,5.4,India,2008,True
+11,44,10k-49k,6.7,India,2009,False
+12,39,44k-99k,0.0,India,1999,False
+13,25,44k-99k,0.0,Australia,2019,True
+14,66,44k-99k,4.0,Australia,2020,True
+15,44,88k-101k,3.0,Australia,1999,False
+16,19,19k-40k,4.5,India,1984,False
+17,39,44k-99k,5.3,New York,1943,True
+18,35,44k-99k,6.7,New York,1954,True
+19,32,44k-99k,3.3,New York,1955,True
+20,39,44k-99k,5.7,New York,1944,True
+21,35,44k-99k,5.0,New York,1946,False
+22,19,55k-66k,7.8,New York,1988,True
+23,39,44k-99k,2.4,New York,1999,True
+24,13,44k-99k,0.0,New York,1987,False
+25,55,44k-99k,0.0,Australia,1980,True
+26,39,55k-66k,0.0,India,1934,True
+27,52,44k-99k,5.4,India,1935,False
+28,39,39k-88k,3.4,Australia,1932,False
